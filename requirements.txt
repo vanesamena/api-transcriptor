@@ -1,0 +1,14 @@
+openai-whisper==20250625
+torch==2.7.1
+torchaudio==2.7.1
+pyannote.audio==3.3.2
+scipy==1.16.0
+numpy==2.2.6
+transformers==4.53.3
+python-dotenv==1.1.1
+ipykernel==6.30.0
+
+# FastAPI + servidor de desarrollo
+fastapi==0.116.1
+uvicorn==0.35.0
+python-multipart==0.0.20
